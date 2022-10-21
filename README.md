@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tessa Chen. I am an assistant professor at the University of Dayton.
 - 👀 I’m interested in Mathematics, Statistics, coding, biking, eating and sleeping.
-- 🌱 I’m currently learning anyting fun. 
+- 🌱 I’m currently learning anything fun. 
 - 💞️ I’m looking to collaborate on research related to people’s daily lives and well-being.
 - 📫 How to reach me: ychen4@udayton.edu
 
